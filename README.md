@@ -1,4 +1,4 @@
-# AutoBuilding Parallel Corpus for SinoNôm/Chinese OCR
+# SinoCorpusBuilder - AutoBuilding Parallel Corpus for SinoNôm/Chinese OCR
 
 ![Banner](https://img.shields.io/badge/Project-AutoBuilding_Parallel_Corpus-blueviolet) ![License](https://img.shields.io/badge/License-MIT-green) ![Python](https://img.shields.io/badge/Python-3.8+-yellow)
 
