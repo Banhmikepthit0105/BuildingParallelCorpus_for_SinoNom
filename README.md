@@ -61,12 +61,21 @@ Các bước thực hiện
 
 4. Chạy pipeline:
 
-Trích xuất hình ảnh từ PDF: python extract_pdf.py
-Thu thập văn bản từ web: python extract_text_from_web.py
-Chạy OCR trên hình ảnh: python extract_multiple.py
-Căn chỉnh văn bản: + python align_boxes.py
-                   + python alignment_process.py
-Xuất kết quả: python write_output.py
+- Trích xuất hình ảnh từ PDF:
+  + python extract_pdf.py
+
+- Thu thập văn bản từ web:
+  + python extract_text_from_web.py
+
+- Chạy OCR trên hình ảnh:
+  + python extract_multiple.py
+
+- Căn chỉnh văn bản:
+   + python align_boxes.py
+   + python alignment_process.py
+
+- Xuất kết quả: 
+   + python write_output.py
 
 
 
